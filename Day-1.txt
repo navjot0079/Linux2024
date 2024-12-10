@@ -1,0 +1,25 @@
+LINUX 
+
+Day-1
+
+1> ls -> list all files
+
+2> pwd -> present working directory 
+
+3> cd -> change directory 
+
+4> mkdir -> make directory
+
+5> touch -> make a file
+
+6> cd.. -> One previous directory
+
+7> cp -> copy file to another directory    cp navjot/anotherFolder
+
+8> mv -> move file from one folder to another    mv source_folder/source_file_name destination_file_name
+
+9> rmdir -> remove directory
+
+10> rm -> remove file 
+
+11> rm -r -> remove folder if not empty
